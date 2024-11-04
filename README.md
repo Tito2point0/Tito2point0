@@ -4,7 +4,6 @@
 
 
 
-![giphy](https://github.com/Tito2point0/Tito2point0/assets/130950992/5e09b80b-d3eb-4649-b61b-735209dad6cd)
 
 
 
