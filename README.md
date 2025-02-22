@@ -1,36 +1,77 @@
-<h1 align="center">Hi 👋, I'm Jason Vasquez</h1>
-<h3 align="center">A passionate frontend developer from New York city</h3>
+# 💻 Jason Vasquez | Full Stack Web Developer
 
+[![tito2point0's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tito2point0&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 👋 About Me
+I'm **Jason Vasquez**, a passionate **Full Stack Web Developer** with a strong focus on building dynamic and responsive applications using modern JavaScript frameworks. I thrive in collaborative environments and enjoy tackling complex problems with creative solutions. My work experience has equipped me with excellent project management and leadership skills, which I seamlessly integrate into my development work.
 
+- 🌱 I currently work on **JavaScript Full Stack Development**, expanding my skills in **React Native**, **GraphQL**, and **CI/CD pipelines**.
+- 💬 Ask me about **React**, **JavaScript**, **Node.js**, and anything related to **web development**.
+- 📫 How to reach me: **[jasvasquez@live.com](mailto:jasvasquez@live.com)**
+- ⚡ Fun fact: I love to play all types of video games and I'm always willing to learn more and more!
 
+---
 
+## 🔗 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonvas2020/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jasonvasqu65125)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://https://jasonvdev.vercel.app/)
 
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tito2point0" alt="tito2point0" /></a> </p>
+## 🚀 Languages and Tools:
 
-- 🌱 I’m currently learning **Javascript full stack developer**
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **jasvasquez@live.com**
-
-- ⚡ Fun fact **I love to play all types of video games and im always willing to learn more and more**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="40"/>
+  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" height="40"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Ionos-0082C6?style=for-the-badge&logo=ionos&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" height="40"/>
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 📈 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tito2point0&show_icons=true&locale=en&layout=compact" alt="tito2point0" /></p>
+![tito2point0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tito2point0&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tito2point0&show_icons=true&locale=en" alt="tito2point0" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=tito2point0&show_icons=true&locale=en&layout=compact&theme=radical)
 
-![giphy2](https://github.com/Tito2point0/Tito2point0/assets/130950992/5c143571-5cb0-42d8-8835-802de6f06399)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tito2point0&theme=radical)
+
+---
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tito2point0&" alt="tito2point0" /></p>
+<div align="center">
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Matrix Code Rain" width="600" />
+</div
+---
+
+## 📈 Visitors Count:
+
+![Visitor Count](https://profile-counter.glitch.me/tito2point0/count.svg)
+
+---
+
+## 💡 Random Developer Quote:
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🎮:
+
+![Fun GIF](https://github.com/Tito2point0/Tito2point0/assets/130950992/5c143571-5cb0-42d8-8835-802de6f06399)
+
 
